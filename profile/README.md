@@ -2,7 +2,7 @@
 
 &nbsp;
 
-At Slack, like most tech companies, we depend on open source software from all over the world to help us get things done. We're greatful to the open source community, the projects, and especially their maintainers who have allowed us to innovate and make our customers working lives a little bit more enjoyable. 
+At Slack, like most tech companies, we depend on open source software from all over the world to help us get things done. We're grateful to the open source community, the projects, and especially their maintainers who have allowed us to innovate and make our customers working lives a little bit more enjoyable. 
 
 Listed within this GitHub org, you'll find a collection of things built by Slack, which we think folks may find helpful or inspiring. Our published projects cover a wide range of complexity, from [Nebula](https://github.com/slackhq/nebula), a scalable overlay networking tool, and [PanModal](https://github.com/slackhq/PanModal), a customizable presentation API for constructing modals on iOS, [Kaldb](https://github.com/slackhq/kaldb), for storing observability data, to a variety of tutorials and snippets to complement our engineering blog posts.
 

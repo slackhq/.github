@@ -10,7 +10,7 @@ Listed within this GitHub org, you'll find a collection of things built by Slack
 
 In addition to publishing open source projects, Slack strives to actively participate in improving upon the core frameworks and technologies Slack is built upon, such as [Electron](https://github.com/electron/electron), [Webpack](https://github.com/webpack/webpack) and [Vitess](https://github.com/vitessio/vitess).
 
-<a href="https://github.com/electron/electron"><img src="https://camo.githubusercontent.com/2ef2a441f9eaa1aca489796981cfa851d9388e08209b08e57526a06b4e604a57/68747470733a2f2f656c656374726f6e6a732e6f72672f696d616765732f656c656374726f6e2d6c6f676f2e737667" height="25"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/webpack/webpack"><img src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" height="25"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/vitessio/vitess"><img src="https://vitess.io/img/logos/vitess-horizontal.png" height="25"></a>
+<a href="https://github.com/electron/electron"><img src="https://github.githubassets.com/images/icons/emoji/electron.png" height="25"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/webpack/webpack"><img src="https://webpack.js.org/assets/icon-square-big.svg" height="25"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/vitessio/vitess"><img src="https://vitess.io/img/logos/vitess-horizontal.png" height="25"></a>
 
 
 In the words of our friends at [Salesforce](https://opensource.salesforce.com/):
